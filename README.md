@@ -256,8 +256,7 @@ return (0);
 
 
 ## OUTPUT:
-![EX 02](https://github.com/janarthanan23/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/119491930/58c44962-cd27-4cc8-a69f-bbfc637960dd)
-
+![313419420-58c44962-cd27-4cc8-a69f-bbfc637960dd](https://github.com/divyakumars/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/119393621/5cac74b7-9fb8-4f62-9612-08b44afddfe0)
 
 
 ## RESULT:
